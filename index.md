@@ -2,7 +2,10 @@
 layout: default
 ---
 
-E-DADS is an international research team bridging `Computer Science` and Neurology, led by University College London.
+E-DADS is an international research team bridging `Computer Science` and Neurology, <br />
+led by University College London.
+
+Funding: [EU Joint Programme --- Neurodegenerative Disease Research](https://www.neurodegenerationresearch.eu/)
 
 
 # E-DADS partners
@@ -10,22 +13,35 @@ E-DADS is an international research team bridging `Computer Science` and Neurolo
 * **UCL**, UK: University College London
   - Danny Alexander, Andre Altmann, Neil Oxtoby
 * **VUmc**, NL: Stichting VU University Medical Center
-  - Wiesje M van der Flier, Frederik Barkhof
+  - Wiesje M van der Flier, Betty Tijms, Frederik Barkhof
 * **FBF**, IT: IRCCS Fatebenefratelli Brescia
-  - Alberto Redolfi, Libera Cavaliere
+  - Alberto Redolfi, Libera Cavaliere, Damiano Archetti
 * **ICM**, FR: INRIA, Institut du Cerveau et de la Moelle épinière --- Brain and Spine Institute
-  - Stanley Durrleman
+  - Stanley Durrleman, Olivier Colliot
 * **CSIRO**, AU: Commonwealth Scientific and Industrial Research Organisation
-  - Samantha Burnham, Victor Villemagne
+  - Samantha Burnham, Victor Villemagne, Simon Laws
+
+## Widening partner
+
+* **MTA**, HU: Hungarian Academy of Sciences
+  - Zoltán Vidnyánszky
+
+### E-DADS Collaborators
+
+* **Bβ**, ES: Barcelonaβeta Brain Research Center
+  - Juan Domingo Gispert
+* **UG**, CH: Université de Genève
+  - Giovanni Frisoni
 
 * * *
 
-### Related projects
+### Related
 
 *   [EuroPOND](http://europond.eu)
 *   [UCL POND](http://pond.cs.ucl.ac.uk)
+*   [UCL CMIC](https://www.ucl.ac.uk/medical-image-computing)
 *   [E-PAD](http://ep-ad.org)
-
+*   [Barcelonaβeta](https://www.barcelonabeta.org/en)
 
 ![E-DADS logo](assets/img/E-DADS_logo_v1.png)
 
