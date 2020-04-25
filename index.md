@@ -41,7 +41,6 @@ layout: default
 
 ### Related
 
-
 * [EuroPOND](http://europond.eu), [UCL POND](http://pond.cs.ucl.ac.uk), [UCL CMIC](https://www.ucl.ac.uk/medical-image-computing)
 * [AmyPAD](https://amypad.eu)
 * [AIBL](https://aibl.csiro.au)

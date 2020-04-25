@@ -1,7 +1,13 @@
 ---
 ---
 
-$header-bg-color: #083272;            // Darker blue
-$header-bg-color-secondary: #5caee2;  // Lighter blue
+$header-bg-color           : #083272; // Darker blue
+$header-bg-color-secondary : #5caee2; // Lighter blue
+$twitter-color             : #55acee;
+
+.fa-twitter,
+  .fa-twitter-square {
+    color: $twitter-color;
+  }
 
 @import 'jekyll-theme-cayman';
