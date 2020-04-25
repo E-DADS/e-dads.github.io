@@ -41,12 +41,11 @@ layout: default
 
 ### Related
 
-* [EuroPOND](http://europond.eu)
-  * [UCL POND](http://pond.cs.ucl.ac.uk)
-  * [UCL CMIC](https://www.ucl.ac.uk/medical-image-computing)
+
+* [EuroPOND](http://europond.eu), [UCL POND](http://pond.cs.ucl.ac.uk), [UCL CMIC](https://www.ucl.ac.uk/medical-image-computing)
 * [AmyPAD](https://amypad.eu)
-* [Barcelonaβeta](https://www.barcelonabeta.org/en)
 * [AIBL](https://aibl.csiro.au)
+* [Barcelonaβeta](https://www.barcelonabeta.org/en)
 
 ![E-DADS logo](assets/img/E-DADS_logo_v1.png)
 
