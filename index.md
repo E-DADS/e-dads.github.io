@@ -2,8 +2,8 @@
 layout: default
 ---
 
-E-DADS is an international research team bridging `Computer Science` and Neurology, <br />
-led by University College London.
+   E-DADS is an international research team bridging `Computer Science` and Neurology, <br />
+   led by University College London.
 
 Funding: [EU Joint Programme --- Neurodegenerative Disease Research](https://www.neurodegenerationresearch.eu/)
 
@@ -19,7 +19,7 @@ Funding: [EU Joint Programme --- Neurodegenerative Disease Research](https://www
 * **ICM**, FR: INRIA, Institut du Cerveau et de la Moelle épinière --- Brain and Spine Institute
   - Stanley Durrleman, Olivier Colliot
 * **CSIRO**, AU: Commonwealth Scientific and Industrial Research Organisation
-  - Samantha Burnham, Victor Villemagne, Simon Laws
+  - Samantha Burnham, Victor Villemagne, Simon Laws, Stephanie Rainey-Smith
 
 ## Widening partner
 
