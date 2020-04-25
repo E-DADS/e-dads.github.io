@@ -3,10 +3,10 @@ layout: default
 ---
 
 <p style="text-align: center;">
-  E-DADS is an international research team bridging `Computer Science` and Neurology, <br /> led by University College London.
+  E-DADS is an international research team bridging Computer Science and Neurology, <br /> led by University College London.
 </p>
 
-Funding: [EU Joint Programme --- Neurodegenerative Disease Research](https://www.neurodegenerationresearch.eu/)
+Funding: [EU Joint Programme --- Neurodegenerative Disease Research](https://www.neurodegenerationresearch.eu/), 2020--2023
 
 
 # E-DADS partners
