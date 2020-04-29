@@ -39,6 +39,10 @@ layout: default
 
 * * *
 
+### Vacancies
+
+* UCL: <a href="https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTg2MDQwNyZ2dF90ZW1wbGF0ZT05NjYmb3duZXI9NTA0MTE3OCZvd25lcnR5cGU9ZmFpciZicmFuZF9pZD0wJnZhY3R5cGU9MTI3NiZ2YWNmaXJtLnZhY3RpdGxlPXByb2dyZXNzaW9uJnBvc3RpbmdfY29kZT0yMjQ=">postdoctoral researcher</a>
+
 ### Related
 
 * [EuroPOND](http://europond.eu), [UCL POND](http://pond.cs.ucl.ac.uk), [UCL CMIC](https://www.ucl.ac.uk/medical-image-computing)
