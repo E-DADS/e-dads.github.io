@@ -27,7 +27,7 @@ layout: default
 
 ## Widening partner
 
-* **MTA**, HU: Hungarian Academy of Sciences
+* **TTK**, HU: Research Centre for Natural Sciences
   - Zoltán Vidnyánszky
 
 ### E-DADS Collaborators
